@@ -1,0 +1,67 @@
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\ApplicationInsights.config
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\csc.exe
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\vbc.exe
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\VBCSCompiler.exe
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Amazon 3s Application.dll.config
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Amazon 3s Application.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Amazon 3s Application.pdb
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\AmazonFileUpload.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\AWSSDK.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\EntityFramework.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\FileStorageUtils.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.DependencyCollector.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.Web.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.WindowsServer.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.ApplicationInsights.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.Web.Infrastructure.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Collections.Immutable.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Json.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Net.Http.Formatting.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Reflection.Metadata.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Helpers.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Http.Common.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Http.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Http.WebHost.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Mvc.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Optimization.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Providers.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Razor.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.WebPages.Deployment.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.WebPages.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.WebPages.Razor.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\AmazonFileUpload.pdb
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\EntityFramework.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\FileStorageUtils.pdb
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.DependencyCollector.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.Web.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.AI.WindowsServer.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.ApplicationInsights.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Json.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Net.Http.Formatting.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Helpers.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Http.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Http.Common.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Http.WebHost.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Mvc.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.Razor.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.WebPages.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.WebPages.Deployment.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\bin\System.Web.WebPages.Razor.xml
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\obj\Debug\Amazon 3s Application.csprojResolveAssemblyReference.cache
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\obj\Debug\Amazon 3s Application.dll
+D:\Rahul Project\Amazon 3s Application\Amazon 3s Application\obj\Debug\Amazon 3s Application.pdb
